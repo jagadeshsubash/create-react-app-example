@@ -1,4 +1,4 @@
 function Hello( ) { 
-  return <H1> Welome To React  </H1>
+  return <h1> Welome To React  </h1>
 }
-export  defaultHello
+export default  Hello
